@@ -1,0 +1,21 @@
+*.suo
+*~
+*.user
+*.aps
+*.ipch
+*.sdf
+*.opensdf
+
+# Log files
+*_log.txt
+
+# Build/output directories
+obj/
+bin/
+build/
+
+# Installer output
+Installer/Output
+
+# Installer pre-processor
+Installer/PreprocessedpGina0.iss

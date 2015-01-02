@@ -1,0 +1,8 @@
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\bin\Debug\pGina.Plugin.HelloPlugin.dll
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\bin\Debug\pGina.Plugin.HelloPlugin.pdb
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\bin\Debug\Abstractions.dll
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\bin\Debug\log4net.dll
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\bin\Debug\pGina.Core.dll
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\bin\Debug\pGina.Shared.dll
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\obj\Debug\pGina.Plugin.HelloPlugin.dll
+c:\Users\uBirds_ARM\Documents\Visual Studio 2010\Projects\HelloPlugin\HelloPlugin\obj\Debug\pGina.Plugin.HelloPlugin.pdb
