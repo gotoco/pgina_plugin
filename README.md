@@ -1,4 +1,5 @@
 pgina_plugin
 ============
 
-first plugin written with pGina Authentication and Authorization framework for C#
+Example plugin written with pGina Authentication and Authorization framework for C#.
+Plugin is waiting for incomming data from serial port (COM), and unlock station when recive magic string or when user normally log in.
